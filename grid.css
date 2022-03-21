@@ -51,10 +51,7 @@ body {
     background-image: linear-gradient(120deg, #7284af 0%, #4d2728 100%);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.section{
-    /*outline: solid 5px white;
-    border-radius: 1rem;*/
-}
+
 .header{
     background: rgb(185,29,235);
     background: radial-gradient(circle, rgba(185,29,235,0.5550420851934523) 1%, rgba(255,255,255,0.4289916650253851) 100%);     height:4rem;
