@@ -57,7 +57,7 @@ body {
     background: radial-gradient(circle, rgba(185,29,235,0.5550420851934523) 1%, rgba(255,255,255,0.4289916650253851) 100%);     height:4rem;
     margin:0 auto;
     border-radius: 5px;
-    top:0rem;
+    top:0;
     position: sticky;
     width: 100%;
     z-index:2;
